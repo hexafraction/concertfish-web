@@ -21,7 +21,7 @@ html, body {
     background-size: cover;
 }
 body{
-    font-family: Proxima Nova;
+    font-family: Proxima-Nova;
     background-color: white;
 }
 h1{
@@ -61,7 +61,7 @@ h1{
     z-index: 3;
     font-size:1.5vw;
     color:white;
-    font-family:Proxima Nova;
+    font-family:Proxima-Nova;
 }
 .video {
   position: fixed;
@@ -106,7 +106,7 @@ h1{
 .halves *{
   font-size:1.5vw;
   color:white;
-  font-family:Proxima Nova;
+  font-family:Proxima-Nova;
 }
 .halves{
   height:40vw;
@@ -146,7 +146,7 @@ h1{
     text-align:center;
     display:inline-block;
     margin-bottom: 30px;
-    font-family: proxima nova;
+    font-family: proxima-nova;
     vertical-align: top;
 }
 .concert-slide div{
@@ -156,7 +156,7 @@ h1{
     margin-bottom:1vw;
 }
 .concert-name{
-    font-family: proxima nova;
+    font-family: proxima-nova;
     font-size: 1.5vw;
     font-weight:200;
 }
@@ -244,14 +244,14 @@ input:checked + .slider:before {
     height:1.5vw;
     width:10vw;
     text-align: center;
-    font-family: proxima nova;
+    font-family: proxima-nova;
     color:black;
     font-size: 1vw;
     border-radius:1.5vw;
     border:solid 0 black;
 }
 .button, .button-small{
-    font-family: proxima nova;
+    font-family: proxima-nova;
     background-color:rgba(0,0,0,0);
     color:white;
     text-align:center;
